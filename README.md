@@ -6,7 +6,7 @@ In this project, we will be practicing object relationships in Ruby, with a part
 ## Introduction
 
 You've been approached by your local cult leaders to build out a foundation for a new app they are all using to gather recruits. As the open-minded freelancers that you are, you've agreed to do so!
-
+'yo' 'be cool' 'pongo'
 ---
 
 ## Setup (Code Overview)
