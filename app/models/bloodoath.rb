@@ -1,10 +1,13 @@
+require 'pry'
+require 'date'
+
 class BloodOath
 
     @@all = []
     attr_reader :date
     attr_accessor :cult, :follower
-    def initialize(date, follower, cult)
-        @date = date
+    def initialize(Date.today.to_s, follower, cult)
+        @date = Date.today.to_s
         @follower = follower
         @cult = cult
         @@all << self
